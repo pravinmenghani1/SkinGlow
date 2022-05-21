@@ -2,18 +2,18 @@
 
 Skin Glow is a skin care online shop that provides users with the ability to view skin care products, register, log-in, edit profile, and purchase. Furthermore, provide the admins with main management options (add, delete, and view user's messages).
 
-This website has been developed using `PHP, HTML5, CSS, MySQL for the database (phpmyAdmin), and JavaScript` with a main aim to be able to perform security testing against `SQLi vulnerability `👁💉
+This website has been developed using `PHP, HTML5, CSS, MySQL for the database (phpMyAdmin), and JavaScript` with a main aim to be able to perform security testing against `SQLi vulnerability `👁💉
 
-`NOTE : This Web Application require PHP, JavaScript, HTML5, CSS, and PHPmyAdmin Setups`
+`NOTE : This Web Application require PHP, JavaScript, HTML5, CSS, and phpMyAdmin Setups`
 
 To run this web application you need to perform some modification in /config/config.php :
 
   ```
   define('ROOT_URL', 'http://localhost/skinglow/'); // Add your localhost link to ROOT page "Home page"
   define('DB_HOST', 'localhost');
-  define('DB_USER', '');                            // Add your name in phpmyAdmin
-  define('DB_PASS', '');                            // Add your password in phpmyAdmin
-  define('DB_NAME', '');                    // Add Database name in phpmyAdmin
+  define('DB_USER', '');                            // Add your name in phpMyAdmin
+  define('DB_PASS', '');                            // Add your password in phpMyAdmin
+  define('DB_NAME', '');                    // Add Database name in phpMyAdmin
   
   ```
   
