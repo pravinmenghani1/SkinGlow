@@ -19,8 +19,8 @@ To run this web application you need to perform some modification in /config/con
   
 To safeguard this web application, security countermeasures has been applied on both, server-side and client-side, such as : 
 
--> Handling the user inputs through Input Validation and Sanitization 
--> Secure Data Storage (using Hashing Algorithms)
--> HTML Attribute 
--> Prepared Statements 
--> Characters Escaping 
+  1. Handling the user inputs through Input Validation and Sanitization 
+  2. Secure Data Storage (using Hashing Algorithms)
+  3. HTML Attribute 
+  4. Prepared Statements 
+  5. Characters Escaping 
