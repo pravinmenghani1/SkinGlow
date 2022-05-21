@@ -21,6 +21,6 @@ To safeguard this web application, security countermeasures has been applied on 
 
   1. Handling the user inputs through Input Validation and Sanitization 
   2. Secure Data Storage (using Hashing Algorithms)
-  3. HTML Attribute 
+  3. HTML Attributes
   4. Prepared Statements 
   5. Characters Escaping 
