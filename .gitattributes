@@ -1,0 +1,5 @@
+*.* linguist-detectable=JavaScript
+*.* linguist-detectable=PHP
+*.* linguist-detectable=HTML
+*.* linguist-detectable=CSS
+*.* linguist-detectable=SQL
