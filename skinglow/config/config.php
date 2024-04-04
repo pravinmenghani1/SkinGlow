@@ -1,5 +1,5 @@
 <?php
-define('ROOT_URL', 'http://localhost:8080/php/skinglow/'); //add your localhost link
+define('ROOT_URL', 'http://localhost/phpmyAdmin/skinglow/'); //add your localhost link
 define('DB_HOST', 'localhost');
 define('DB_USER', 'danyah');//add your name
 define('DB_PASS', '');
